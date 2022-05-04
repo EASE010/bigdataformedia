@@ -21,7 +21,7 @@ Anyway~ this is the technology principle of so-called beauty filter
 ## P2 : How to record a video with cute sticker by python program ?
 See the sorce code in [videosticker](./videosticker)
 
-See full video in [fullvideo](./lovely Washington.avi)
+See full video in [fullvideo](./lovelyWashington.avi)
 
 It seems a little bit difficult, but trust me, with open-CV, that is quite easy.
 OpenCV has provided a method to open your camera, which is the first step to make a selfie or a video.
