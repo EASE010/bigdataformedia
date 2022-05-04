@@ -2,7 +2,7 @@
 This repository is used to store the problems and insights I encountered in a specialized course: Big Data for Media in Practice
 
 ## P1: an auto makeup program based on face-recognition
-See the sorce code in [auto-makeup](bigdataformedia/auto-makeup)
+See the sorce code in [auto-makeup](./auto-makeup)
 
 Once face-recognition has done its job to locate facial features, we can fill those areas with selected colors to create an effect that looks as if makeup has been applied.
 
