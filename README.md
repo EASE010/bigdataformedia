@@ -18,5 +18,16 @@ Anyway~ this is the technology principle of so-called beauty filter
 
 
 
-## Q1 : waht's the working principle of face-recognition
+## P2 : How to record a video with cute sticker by python program ?
+
+It seems a little bit difficult, but trust me, with open-CV, that is quite easy.
+OpenCV has provided a method to open your camera, which is the first step to make a selfie or a video.
+
+Next, anyone who has basic knowledge of video knows that video is composed of frames ( also can be seen as pics ), so my idea is to implement face recognition on each frame, which finally leads to the whole video with face recognition!
+
+My implementation: according to the face recognition result, add a sticker beyond your face, which is so simple, in fact, same as adding a watermark.
+
+The following shows the final result: ( a lovely Washington huh? believe H
+
+![序列 01_2](https://user-images.githubusercontent.com/89291145/166710035-7626179c-46e7-4bd7-b822-5455496a6c2f.gif)
 
